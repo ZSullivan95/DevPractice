@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using PracticeWeb.Models;
+using Practice.Models;
 using System.Diagnostics;
 
 namespace PracticeWeb.Controllers

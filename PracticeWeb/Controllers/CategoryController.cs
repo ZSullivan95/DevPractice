@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using PracticeWeb.Data;
-using PracticeWeb.Models;
+using Practice.DataAccess.Data;
+using Practice.Models;
 
 namespace PracticeWeb.Controllers
 {
