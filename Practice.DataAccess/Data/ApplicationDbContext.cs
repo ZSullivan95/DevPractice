@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using PracticeWeb.Models;
+using Practice.Models;
 
-namespace PracticeWeb.Data
+namespace Practice.DataAccess.Data
 {
     public class ApplicationDbContext : DbContext
     {

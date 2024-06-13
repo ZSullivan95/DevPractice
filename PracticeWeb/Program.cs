@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using PracticeWeb.Data;
+using Practice.DataAccess.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

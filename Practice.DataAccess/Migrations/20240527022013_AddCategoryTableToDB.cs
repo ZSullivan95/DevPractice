@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace PracticeWeb.Migrations
+namespace Practice.DataAccess.Migrations
 {
     /// <inheritdoc />
     public partial class AddCategoryTableToDB : Migration

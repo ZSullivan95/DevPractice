@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace PracticeWeb.Models
+namespace Practice.Models
 {
     public class Category
     {
