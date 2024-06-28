@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Practice.Models;
 using System.Diagnostics;
 
-namespace PracticeWeb.Controllers
+namespace PracticeWeb.Areas.Customer.Controllers
 {
     public class HomeController : Controller
     {
